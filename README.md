@@ -1,2 +1,2 @@
 # Flippy
-This is the official GitHub Repo for our restouration prodject. 
+This is the official GitHub Repo for our restouration project. 
